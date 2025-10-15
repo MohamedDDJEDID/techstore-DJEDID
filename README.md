@@ -24,3 +24,5 @@ Conseils
 - Ouvrez `index.html` avec Live Server.
 
 Auteur: Mohamed DJEDID
+
+Démarrage projet, clonage OK, professeur invité"
