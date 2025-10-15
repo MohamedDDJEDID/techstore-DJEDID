@@ -26,3 +26,8 @@ Conseils
 Auteur: Mohamed DJEDID
 
 Démarrage projet, clonage OK, professeur invité"
+
+W3C à venir
+
+S1 terminée, structure OK
+
